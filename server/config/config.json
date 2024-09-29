@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ieHIDPaDM2CAKE28gsVg",
+    "database": "hospital_project",
+    "host": "database-3.c7eo8sg48bsk.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ieHIDPaDM2CAKE28gsVg",
+    "database": "hospital_project",
+    "host": "database-3.c7eo8sg48bsk.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
